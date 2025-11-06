@@ -1,0 +1,1 @@
+#include <stdio.h> tells the compiler to look for the header file in the system directories, while #include "stdio.h" tells it to look in the current directory first before checking the system directories.
