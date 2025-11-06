@@ -1,0 +1,1 @@
+Returning 1 from main() tells the operating system that the program ended with an error.
