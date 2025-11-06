@@ -2,3 +2,4 @@ linux operating system
 windows operating system
 oracle database
 git version control system
+python interpreter
