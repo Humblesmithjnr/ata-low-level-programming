@@ -1,0 +1,3 @@
+it is fast and efficient for system programming
+it is the foundation for many modern languages like c++, java, and python
+it allows direct access to memory and hardware, making it ideal for embedded systems
