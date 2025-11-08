@@ -1,0 +1,2 @@
+A compiler translates source code written in a programming language (like C) into machine code.
+It also checks for syntax errors and ensures the program can run on a computer.
