@@ -1,0 +1,1 @@
+In function 'main': hello.c:5:1: error: expected '}' at end of input
