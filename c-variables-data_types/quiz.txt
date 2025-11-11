@@ -1,0 +1,8 @@
+Difference between // and /* ... */:
+// is used for single-line comments, while /* ... */ is used for multi-line comments in C.
+
+Why we need keywords:
+Keywords are reserved words in C that have predefined meanings and tell the compiler what action to perform.
+
+Examples of C keywords:
+int, return, if.
